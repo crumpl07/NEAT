@@ -1,0 +1,13 @@
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.exe
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.deps.json
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.runtimeconfig.json
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.runtimeconfig.dev.json
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.dll
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\bin\Debug\netcoreapp3.1\NEAT.pdb
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.csprojAssemblyReference.cache
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.AssemblyInfoInputs.cache
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.AssemblyInfo.cs
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.csproj.CoreCompileInputs.cache
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.dll
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.pdb
+C:\Users\crump\OneDrive\Documents\Projects\NEAT\NEAT\obj\Debug\netcoreapp3.1\NEAT.genruntimeconfig.cache
