@@ -4,13 +4,18 @@ using System.Text;
 
 namespace NEAT
 {
+
     class Connection
     {
+        List<int> inConnections;
+        List<int> outConnections;
         float weight = 0;
         bool isEnabled = true;
         int innovationNum = 0;
         public Connection()
         {
+            inConnections = new List<int>();
+            outConnections = new List<int>();
             weight = 0;
             isEnabled = true;
             innovationNum = 0;
