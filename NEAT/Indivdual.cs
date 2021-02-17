@@ -4,14 +4,13 @@ using System.Text;
 
 namespace NEAT
 {
-    class Genome
+    class Indivdual
     {
         int populationSize;
 
-        public Genome(int populationSize)
+        public Indivdual()
         {
-            this.populationSize = populationSize;
-            List<NodeGene> Genome = new List<NodeGene>();
+            
         }
 
         public void findInnovationNum()
@@ -30,7 +29,7 @@ namespace NEAT
             //Adds the connection to the end of the array of connections
         }
 
-        public void removeConnection(NodeGene gene1, NodeGene gene2)
+        public void removeConnection(Node gene1, Node gene2)
         {
             //Removes the connction between two genes
         }
