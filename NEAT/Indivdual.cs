@@ -6,11 +6,11 @@ namespace NEAT
 {
     class Indivdual
     {
-        int populationSize;
+        List<Connection> population;
 
         public Indivdual()
         {
-            
+            population = new List<Connection>();
         }
 
         public void findInnovationNum()
@@ -32,6 +32,11 @@ namespace NEAT
         public void removeConnection(Node gene1, Node gene2)
         {
             //Removes the connction between two genes
+        }
+
+        private void FeedForward()
+        {
+            //Hardboi
         }
     }
 }
